@@ -1,1 +1,1 @@
-web: gunicorn foodya.wsgi --log-fie - 
+web: gunicorn foodya.wsgi --log-file - 
